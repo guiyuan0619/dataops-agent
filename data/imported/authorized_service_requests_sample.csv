@@ -1,0 +1,6 @@
+request_id,created_at,agency,complaint_type,status,borough,source_url,source_checksum
+ENT-1001,2026-08-01,Facilities,Elevator outage,Open,MANHATTAN,private://authorized/enterprise_service_tickets,13a2fa51a1de1dae9f8b67ee56c4e13f6f77cc9fb2ec8d44e1eb8637254b08fc
+ENT-1002,2026-08-02,IT,VPN access failure,In Progress,QUEENS,private://authorized/enterprise_service_tickets,13a2fa51a1de1dae9f8b67ee56c4e13f6f77cc9fb2ec8d44e1eb8637254b08fc
+ENT-1003,2026-08-03,Operations,Delayed work order,Pending,BROOKLYN,private://authorized/enterprise_service_tickets,13a2fa51a1de1dae9f8b67ee56c4e13f6f77cc9fb2ec8d44e1eb8637254b08fc
+ENT-1004,2026-08-04,Facilities,Water leak,Closed,BRONX,private://authorized/enterprise_service_tickets,13a2fa51a1de1dae9f8b67ee56c4e13f6f77cc9fb2ec8d44e1eb8637254b08fc
+ENT-1005,2026-08-05,Customer Support,Duplicate customer ticket,Open,Unspecified,private://authorized/enterprise_service_tickets,13a2fa51a1de1dae9f8b67ee56c4e13f6f77cc9fb2ec8d44e1eb8637254b08fc

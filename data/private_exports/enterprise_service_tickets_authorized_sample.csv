@@ -1,0 +1,6 @@
+ticket_id,opened_at,business_unit,issue_type,lifecycle_status,region,visibility,redaction_status,authorization_note
+ENT-1001,2026-08-01,Facilities,Elevator outage,open,Manhattan,authorized_export,de_identified,Demo authorization for DataOps private-source adapter
+ENT-1002,2026-08-02,IT,VPN access failure,in_progress,Queens,authorized_export,de_identified,Demo authorization for DataOps private-source adapter
+ENT-1003,2026-08-03,Operations,Delayed work order,pending,Brooklyn,authorized_export,de_identified,Demo authorization for DataOps private-source adapter
+ENT-1004,2026-08-04,Facilities,Water leak,closed,Bronx,authorized_export,de_identified,Demo authorization for DataOps private-source adapter
+ENT-1005,2026-08-05,Customer Support,Duplicate customer ticket,open,Unspecified,authorized_export,de_identified,Demo authorization for DataOps private-source adapter

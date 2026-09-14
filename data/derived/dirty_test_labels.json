@@ -1,0 +1,29 @@
+{
+  "issues": [
+    {
+      "issue_type": "missing_value",
+      "row_index": 1,
+      "field": "title"
+    },
+    {
+      "issue_type": "invalid_enum",
+      "row_index": 2,
+      "field": "department"
+    },
+    {
+      "issue_type": "stale_record",
+      "row_index": 3,
+      "field": "updated_at"
+    },
+    {
+      "issue_type": "missing_value",
+      "row_index": 4,
+      "field": "source"
+    },
+    {
+      "issue_type": "duplicate_record",
+      "row_index": 6,
+      "field": "doctor_id"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "ok",
+  "dataset_name": "service_requests",
+  "doc_count": 500,
+  "rag_boundary": {
+    "dataops_exports_docs": true,
+    "dataops_builds_embedding": false,
+    "dataops_writes_vector_db": false,
+    "downstream_should_reindex_after_approval": true
+  },
+  "source_report_sha256": "ae4a0f770b9848edb5c9b2d681e81ead2a75907d1ee6ed00737d423f80f43c30"
+}

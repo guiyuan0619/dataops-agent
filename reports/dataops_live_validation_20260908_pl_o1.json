@@ -1,0 +1,74 @@
+{
+  "run_id": "pl-o1-ecs-current-20260908",
+  "source_scope": {
+    "git_head": "73ef7f5",
+    "includes_uncommitted_worktree": true
+  },
+  "steps": [
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    },
+    {
+      "exit_code": 0
+    }
+  ],
+  "key_results": {
+    "pytest": {
+      "tests": 108,
+      "status": "passed",
+      "warning_count": 1,
+      "terminal_total_coverage_percent": 82.55,
+      "coverage_xml_line_rate": 0.8528,
+      "coverage_xml_branch_rate": 0.6703
+    },
+    "health": {
+      "single_check": "ok",
+      "loop_count": 20,
+      "loop_all_ok": true,
+      "loop_duration_ms": 20159
+    },
+    "performance": {
+      "service_requests_row_count": 500,
+      "total_ms": 240.404,
+      "service_requests_regression_status": "passed"
+    },
+    "ruff": "passed"
+  },
+  "source_report_sha256": "b0660f6d2746cc48dc85b035b054b269deb066e6153849bc10f68e3ed2045c90"
+}

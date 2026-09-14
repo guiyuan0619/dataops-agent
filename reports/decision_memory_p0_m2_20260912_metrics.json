@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "metrics": {
+    "scenario_count": 12,
+    "scenario_passed": 12,
+    "repeat_count_per_mode": 5,
+    "memory_on_model_calls": 0,
+    "memory_off_model_calls": 5,
+    "model_call_reduction_percent": 100.0,
+    "memory_on_tokens": 0,
+    "memory_off_tokens": 600,
+    "token_reduction_percent": 100.0,
+    "memory_on_mean_latency_ms": 43.7,
+    "memory_off_mean_latency_ms": 49.68,
+    "memory_on_p95_latency_ms": 44.47,
+    "memory_off_p95_latency_ms": 50.41,
+    "gate_bypass_count": 0,
+    "rejected_error_reuse_count": 0,
+    "cross_scope_leak_count": 0
+  },
+  "scope": {
+    "storage": "local SQLite",
+    "planner": "deterministic provider stub with 15ms simulated latency",
+    "qwen_used": false,
+    "ecs_used": false,
+    "production_traffic": false
+  },
+  "source_report_sha256": "3cac3787525f235938c17fe8b73df61b9abfb448da623b178f7e2095b8717b17"
+}

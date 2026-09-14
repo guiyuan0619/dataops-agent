@@ -1,0 +1,7 @@
+doctor_id,name,department,title,status,updated_at,source
+D001,Alice Chen,Cardiology,Chief Physician,active,2026-08-01,hospital_roster
+D002,Ben Wang,Neurology,Attending Physician,active,2026-07-15,hospital_roster
+D003,Cara Li,Pediatrics,Resident Physician,active,2026-06-20,hospital_roster
+D004,David Zhou,Orthopedics,Associate Chief Physician,active,2026-08-10,hospital_roster
+D005,Eva Sun,Dermatology,Attending Physician,active,2026-05-11,hospital_roster
+D006,Frank Xu,Cardiology,Resident Physician,inactive,2026-03-09,hospital_roster

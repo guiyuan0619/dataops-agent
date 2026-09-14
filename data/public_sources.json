@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cms_hospital_general_information",
+    "dataset_name": "hospitals",
+    "schema_version": "hospitals_v1",
+    "source_type": "official_public_api",
+    "source_owner": "Centers for Medicare & Medicaid Services",
+    "source_url": "https://data.cms.gov/provider-data/api/1/datastore/query/xubh-q36u/0?limit=50",
+    "normalize": "cms_hospitals",
+    "snapshot_path": "data/source_snapshots/b0b205399313bdc0.json",
+    "metadata_path": "data/source_snapshots/b0b205399313bdc0.metadata.json",
+    "raw_candidate_path": "data/imported/cms_hospitals_normalized_sample.raw.csv",
+    "candidate_path": "data/imported/cms_hospitals_normalized_sample.csv",
+    "dirty_candidate_path": "data/derived/cms_hospitals_dirty_sample.csv",
+    "labels_path": "data/derived/cms_hospitals_dirty_sample_labels.json",
+    "baseline_report_path": "reports/cms_hospitals_detection_baseline.json",
+    "candidate_boundary": "candidate_only_not_auto_published",
+    "consumer_contract": "dataops_consumer_v1"
+  },
+  {
+    "id": "nyc_311_service_requests",
+    "dataset_name": "service_requests",
+    "schema_version": "service_requests_v1",
+    "source_type": "official_public_api",
+    "source_owner": "NYC Open Data",
+    "source_url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key,created_date,agency,complaint_type,status,borough&%24where=complaint_type%20IS%20NOT%20NULL%20AND%20borough%20IS%20NOT%20NULL&%24order=created_date%20DESC&%24limit=500",
+    "normalize": "nyc_311_service_requests",
+    "snapshot_path": "data/source_snapshots/ebeb16db35f9a1cb.json",
+    "metadata_path": "data/source_snapshots/ebeb16db35f9a1cb.metadata.json",
+    "raw_candidate_path": "data/imported/nyc_311_service_requests_sample.raw.csv",
+    "candidate_path": "data/imported/nyc_311_service_requests_sample.csv",
+    "dirty_candidate_path": "data/derived/nyc_311_service_requests_dirty_sample.csv",
+    "labels_path": "data/derived/nyc_311_service_requests_dirty_sample_labels.json",
+    "baseline_report_path": "reports/service_requests_detection_baseline.json",
+    "candidate_boundary": "candidate_only_not_auto_published",
+    "consumer_contract": "dataops_consumer_v1"
+  }
+]

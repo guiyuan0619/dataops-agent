@@ -1,0 +1,7 @@
+doctor_id,name,department,title,status,updated_at,source
+T001,Gina Ma,Cardiology,Attending Physician,active,2026-08-02,hospital_roster
+T002,Hank Zhao,Neurology,Chief Physician,active,2026-07-18,hospital_roster
+T003,Ivy Liu,Pediatrics,Resident Physician,active,2026-06-23,hospital_roster
+T004,Jack Wu,Orthopedics,Associate Chief Physician,active,2026-08-12,hospital_roster
+T005,Kate Hu,Dermatology,Attending Physician,active,2026-05-13,hospital_roster
+T006,Luke Yang,Cardiology,Resident Physician,inactive,2026-03-11,hospital_roster

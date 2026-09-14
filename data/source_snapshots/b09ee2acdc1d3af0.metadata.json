@@ -1,0 +1,9 @@
+{
+  "source_url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key,created_date,agency,complaint_type,status,borough&%24where=complaint_type%20IS%20NOT%20NULL%20AND%20borough%20IS%20NOT%20NULL&%24limit=50",
+  "raw_path": "data/source_snapshots/b09ee2acdc1d3af0.json",
+  "metadata_path": "data/source_snapshots/b09ee2acdc1d3af0.metadata.json",
+  "checksum": "b09ee2acdc1d3af090c55fbf1338c633e908ebd73fe3b0e656b5b3961a5e9e97",
+  "content_type": "application/json;charset=utf-8",
+  "byte_count": 8020,
+  "fetched_at": "2026-08-21T08:56:18.509314+00:00"
+}

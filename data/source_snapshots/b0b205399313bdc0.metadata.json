@@ -1,0 +1,9 @@
+{
+  "source_url": "https://data.cms.gov/provider-data/api/1/datastore/query/xubh-q36u/0?limit=50",
+  "raw_path": "data/source_snapshots/b0b205399313bdc0.json",
+  "metadata_path": "data/source_snapshots/b0b205399313bdc0.metadata.json",
+  "checksum": "b0b205399313bdc067e3344d42f3f4e0a045ddf29706fc2997b232ebbf67efee",
+  "content_type": "application/json",
+  "byte_count": 70634,
+  "fetched_at": "2026-08-21T07:17:34.848835+00:00"
+}

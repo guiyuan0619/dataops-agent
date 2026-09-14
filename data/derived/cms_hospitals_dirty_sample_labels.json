@@ -1,0 +1,30 @@
+{
+  "dataset_name": "hospitals",
+  "issues": [
+    {
+      "issue_type": "missing_value",
+      "row_index": 1,
+      "field": "name"
+    },
+    {
+      "issue_type": "invalid_enum",
+      "row_index": 2,
+      "field": "emergency_services"
+    },
+    {
+      "issue_type": "invalid_enum",
+      "row_index": 3,
+      "field": "rating"
+    },
+    {
+      "issue_type": "missing_value",
+      "row_index": 4,
+      "field": "source_url"
+    },
+    {
+      "issue_type": "duplicate_record",
+      "row_index": 50,
+      "field": "hospital_id"
+    }
+  ]
+}

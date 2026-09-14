@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "knowledge_doc_count": 5,
+  "case_count": 6,
+  "metrics": {
+    "positive_case_count": 5,
+    "negative_case_count": 1,
+    "passed_case_count": 6,
+    "pass_rate": 1.0,
+    "top1_accuracy": 1.0,
+    "hit_at_k": 1.0,
+    "tool_match_rate": 1.0,
+    "term_coverage_rate": 1.0,
+    "forbidden_doc_leak_count": 0
+  },
+  "scope": {
+    "local_only": true,
+    "ecs_used": false,
+    "qwen_used": false,
+    "retrieval_mode": "bm25",
+    "production_traffic": false
+  },
+  "source_report_sha256": "22ce7007733d586a5bd14c85ef723566673f0dcecd1d27e62f3648279b0b0535"
+}

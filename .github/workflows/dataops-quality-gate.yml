@@ -1,0 +1,93 @@
+name: DataOps Agent Quality Gate
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install package
+        run: python -m pip install -e ".[dev]"
+      - name: Ruff
+        run: python -m ruff check .
+
+  test-matrix:
+    needs: lint
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - suite: ingestion-contracts
+            files: >-
+              tests/test_source_manifest.py tests/test_sources.py tests/test_service_requests.py
+              tests/test_cms_hospitals.py tests/test_private_sources.py tests/test_contracts.py
+              tests/test_acceptance.py
+          - suite: governance-release
+            files: >-
+              tests/test_governance.py tests/test_semantic_agent_mainline.py
+              tests/test_semantic_planner_p0_eval.py tests/test_decision_memory.py
+              tests/test_api.py tests/test_rules_repair_versioning.py tests/test_concurrency.py
+              tests/test_approval_evidence.py tests/test_cross_project_recovery.py
+              tests/test_downstream_regression.py
+              tests/test_consumer_integration.py tests/test_knowledge_release.py
+              tests/test_integration_audit.py
+          - suite: agent-tooling
+            files: >-
+              tests/test_mcp_server.py tests/test_mcp_showcase.py tests/test_skill_registry.py
+              tests/test_qwen_client.py tests/test_release_review.py tests/test_scorecard.py
+              tests/test_training_candidates.py tests/test_ci_quality_matrix.py
+          - suite: safety-collaboration
+            files: >-
+              tests/test_security_review.py tests/test_boundary_guard.py tests/test_collaboration.py
+              tests/test_scenario_playbook.py
+          - suite: downstream-observability
+            files: >-
+              tests/test_freshness.py tests/test_rolling_open_data.py
+              tests/test_performance.py tests/test_demo.py tests/test_portfolio_demo.py
+              tests/test_hospital_integration.py tests/test_hospital_regression.py
+              tests/test_hospital_impact.py
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install package
+        run: python -m pip install -e ".[dev]"
+      - name: Run suite
+        run: python -m pytest ${{ matrix.files }}
+
+  full-regression:
+    needs: test-matrix
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install package
+        run: python -m pip install -e ".[dev]"
+      - name: Full pytest with coverage and JUnit
+        run: >-
+          python -m pytest
+          --cov=dataops_agent
+          --cov-report=term-missing
+          --cov-report=xml:reports/pytest_coverage.xml
+          --junitxml=reports/pytest_junit.xml
+      - name: Scorecard
+        run: python -m dataops_agent.scorecard --run-id ci-quality-gate
+      - name: CI quality matrix
+        run: python -m dataops_agent.ci_quality_matrix --run-id ci-quality-gate

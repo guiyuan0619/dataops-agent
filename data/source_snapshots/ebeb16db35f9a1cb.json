@@ -1,0 +1,500 @@
+[{"unique_key":"70117611","created_date":"2026-08-20T01:50:51.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115201","created_date":"2026-08-20T01:50:46.000","agency":"DEP","complaint_type":"Water Maintenance","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70122725","created_date":"2026-08-20T01:50:15.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70120375","created_date":"2026-08-20T01:49:57.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70120333","created_date":"2026-08-20T01:49:53.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70118094","created_date":"2026-08-20T01:49:45.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123891","created_date":"2026-08-20T01:49:27.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70119508","created_date":"2026-08-20T01:48:48.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70125287","created_date":"2026-08-20T01:48:42.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70116986","created_date":"2026-08-20T01:48:16.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70117559","created_date":"2026-08-20T01:47:22.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70124586","created_date":"2026-08-20T01:47:03.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123194","created_date":"2026-08-20T01:45:26.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123426","created_date":"2026-08-20T01:44:59.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70126005","created_date":"2026-08-20T01:44:37.000","agency":"DPR","complaint_type":"Damaged Tree","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70118129","created_date":"2026-08-20T01:44:37.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70119561","created_date":"2026-08-20T01:44:34.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70124751","created_date":"2026-08-20T01:44:23.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70119817","created_date":"2026-08-20T01:43:29.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70125946","created_date":"2026-08-20T01:42:23.000","agency":"DOHMH","complaint_type":"Rodent","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70125316","created_date":"2026-08-20T01:42:15.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70116267","created_date":"2026-08-20T01:41:55.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70116179","created_date":"2026-08-20T01:41:53.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70120529","created_date":"2026-08-20T01:41:38.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70118853","created_date":"2026-08-20T01:41:11.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70121019","created_date":"2026-08-20T01:40:54.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70125340","created_date":"2026-08-20T01:40:49.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121771","created_date":"2026-08-20T01:40:31.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70116178","created_date":"2026-08-20T01:40:01.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70124534","created_date":"2026-08-20T01:39:41.000","agency":"DPR","complaint_type":"Illegal Tree Damage","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70117832","created_date":"2026-08-20T01:39:00.000","agency":"DSNY","complaint_type":"Dirty Condition","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70117618","created_date":"2026-08-20T01:38:56.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"STATEN ISLAND"}
+,{"unique_key":"70117143","created_date":"2026-08-20T01:38:31.000","agency":"DOHMH","complaint_type":"Food Poisoning","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70122056","created_date":"2026-08-20T01:38:30.000","agency":"DSNY","complaint_type":"Litter Basket Complaint","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70124821","created_date":"2026-08-20T01:37:51.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123433","created_date":"2026-08-20T01:37:22.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70117467","created_date":"2026-08-20T01:36:56.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70116268","created_date":"2026-08-20T01:36:50.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70119625","created_date":"2026-08-20T01:36:43.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70116841","created_date":"2026-08-20T01:36:19.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121726","created_date":"2026-08-20T01:35:52.000","agency":"DPR","complaint_type":"Damaged Tree","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121148","created_date":"2026-08-20T01:35:06.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70120534","created_date":"2026-08-20T01:33:14.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70116954","created_date":"2026-08-20T01:33:03.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70123088","created_date":"2026-08-20T01:32:24.000","agency":"DHS","complaint_type":"Homeless Person Assistance","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123875","created_date":"2026-08-20T01:32:09.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70123936","created_date":"2026-08-20T01:32:02.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70115411","created_date":"2026-08-20T01:30:34.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70116019","created_date":"2026-08-20T01:29:57.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122423","created_date":"2026-08-20T01:29:21.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70125468","created_date":"2026-08-20T01:28:25.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70124234","created_date":"2026-08-20T01:27:45.000","agency":"DOT","complaint_type":"Street Sign - Dangling","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121998","created_date":"2026-08-20T01:27:05.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70122485","created_date":"2026-08-20T01:26:10.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70116753","created_date":"2026-08-20T01:25:44.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70126047","created_date":"2026-08-20T01:25:38.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70122330","created_date":"2026-08-20T01:23:59.000","agency":"DEP","complaint_type":"Lead","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121773","created_date":"2026-08-20T01:21:55.000","agency":"NYPD","complaint_type":"Non-Emergency Police Matter","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70116808","created_date":"2026-08-20T01:21:02.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122057","created_date":"2026-08-20T01:19:49.000","agency":"DSNY","complaint_type":"Litter Basket Complaint","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70125170","created_date":"2026-08-20T01:19:03.000","agency":"DEP","complaint_type":"Lead","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70116115","created_date":"2026-08-20T01:18:37.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115936","created_date":"2026-08-20T01:18:18.000","agency":"DHS","complaint_type":"Homeless Person Assistance","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70121296","created_date":"2026-08-20T01:17:27.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70125533","created_date":"2026-08-20T01:17:23.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70123981","created_date":"2026-08-20T01:16:43.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70117615","created_date":"2026-08-20T01:16:18.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"STATEN ISLAND"}
+,{"unique_key":"70122599","created_date":"2026-08-20T01:15:36.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70125463","created_date":"2026-08-20T01:15:06.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70120992","created_date":"2026-08-20T01:14:37.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70119698","created_date":"2026-08-20T01:13:21.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70116708","created_date":"2026-08-20T01:13:04.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70122465","created_date":"2026-08-20T01:12:22.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70121157","created_date":"2026-08-20T01:12:02.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121247","created_date":"2026-08-20T01:12:00.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70126221","created_date":"2026-08-20T01:11:30.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70119647","created_date":"2026-08-20T01:11:10.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70116417","created_date":"2026-08-20T01:11:07.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115169","created_date":"2026-08-20T01:11:05.000","agency":"DEP","complaint_type":"Lead","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70126048","created_date":"2026-08-20T01:10:14.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70126257","created_date":"2026-08-20T01:10:09.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70116040","created_date":"2026-08-20T01:10:07.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70122149","created_date":"2026-08-20T01:10:03.000","agency":"DSNY","complaint_type":"Vendor Enforcement","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70118117","created_date":"2026-08-20T01:09:37.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70120267","created_date":"2026-08-20T01:07:21.000","agency":"DOHMH","complaint_type":"Rodent","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70118997","created_date":"2026-08-20T01:06:49.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"STATEN ISLAND"}
+,{"unique_key":"70116968","created_date":"2026-08-20T01:06:43.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70120998","created_date":"2026-08-20T01:06:23.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70122065","created_date":"2026-08-20T01:06:11.000","agency":"DSNY","complaint_type":"Litter Basket Request","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70126312","created_date":"2026-08-20T01:06:09.000","agency":"DSNY","complaint_type":"Litter Basket Complaint","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70120409","created_date":"2026-08-20T01:06:06.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70116067","created_date":"2026-08-20T01:06:04.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70125583","created_date":"2026-08-20T01:05:56.000","agency":"TLC","complaint_type":"Lost Property","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70124142","created_date":"2026-08-20T01:05:45.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121258","created_date":"2026-08-20T01:05:32.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70121032","created_date":"2026-08-20T01:05:31.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70126026","created_date":"2026-08-20T01:05:18.000","agency":"NYPD","complaint_type":"Non-Emergency Police Matter","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70117641","created_date":"2026-08-20T01:05:05.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70115381","created_date":"2026-08-20T01:05:03.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70124594","created_date":"2026-08-20T01:04:59.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70115500","created_date":"2026-08-20T01:04:50.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70120528","created_date":"2026-08-20T01:04:44.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70116849","created_date":"2026-08-20T01:04:44.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70118466","created_date":"2026-08-20T01:04:23.000","agency":"DCWP","complaint_type":"Consumer Complaint","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70123931","created_date":"2026-08-20T01:04:21.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70120394","created_date":"2026-08-20T01:04:12.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70125452","created_date":"2026-08-20T01:03:46.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70123956","created_date":"2026-08-20T01:03:11.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70118840","created_date":"2026-08-20T01:03:08.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70120482","created_date":"2026-08-20T01:03:04.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70121126","created_date":"2026-08-20T01:02:59.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70119532","created_date":"2026-08-20T01:02:30.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70116219","created_date":"2026-08-20T01:02:11.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70122534","created_date":"2026-08-20T01:02:01.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70116713","created_date":"2026-08-20T01:01:39.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70126264","created_date":"2026-08-20T01:01:37.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70126263","created_date":"2026-08-20T01:01:36.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70118719","created_date":"2026-08-20T01:01:20.000","agency":"DHS","complaint_type":"Homeless Person Assistance","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70122418","created_date":"2026-08-20T01:00:59.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70115359","created_date":"2026-08-20T01:00:50.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70123896","created_date":"2026-08-20T01:00:50.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70119576","created_date":"2026-08-20T01:00:48.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70116706","created_date":"2026-08-20T01:00:33.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70123338","created_date":"2026-08-20T01:00:31.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70123798","created_date":"2026-08-20T01:00:09.000","agency":"DEP","complaint_type":"Water Maintenance","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70123205","created_date":"2026-08-20T01:00:03.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70115325","created_date":"2026-08-20T00:59:25.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70121835","created_date":"2026-08-20T00:58:56.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70118175","created_date":"2026-08-20T00:57:39.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70116022","created_date":"2026-08-20T00:57:36.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70123868","created_date":"2026-08-20T00:57:24.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70118063","created_date":"2026-08-20T00:57:23.000","agency":"DEP","complaint_type":"Water Maintenance","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70125660","created_date":"2026-08-20T00:57:12.000","agency":"DOHMH","complaint_type":"Standing Water","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70118121","created_date":"2026-08-20T00:57:08.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70119003","created_date":"2026-08-20T00:57:06.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70123958","created_date":"2026-08-20T00:56:43.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121776","created_date":"2026-08-20T00:56:32.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70117610","created_date":"2026-08-20T00:56:05.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70116093","created_date":"2026-08-20T00:55:33.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70124627","created_date":"2026-08-20T00:55:22.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70119496","created_date":"2026-08-20T00:55:21.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70124611","created_date":"2026-08-20T00:55:02.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70120339","created_date":"2026-08-20T00:54:50.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70123440","created_date":"2026-08-20T00:54:26.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70119941","created_date":"2026-08-20T00:53:43.000","agency":"DOT","complaint_type":"Street Sign - Dangling","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70120598","created_date":"2026-08-20T00:53:41.000","agency":"DSNY","complaint_type":"Litter Basket Complaint","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70123906","created_date":"2026-08-20T00:53:36.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70117609","created_date":"2026-08-20T00:53:28.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70126383","created_date":"2026-08-20T00:53:22.000","agency":"DSNY","complaint_type":"Illegal Dumping","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115499","created_date":"2026-08-20T00:52:24.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70120408","created_date":"2026-08-20T00:52:10.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70118936","created_date":"2026-08-20T00:52:07.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70118324","created_date":"2026-08-20T00:52:01.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70121047","created_date":"2026-08-20T00:51:52.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70122442","created_date":"2026-08-20T00:51:24.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70119646","created_date":"2026-08-20T00:51:05.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70119645","created_date":"2026-08-20T00:51:05.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121884","created_date":"2026-08-20T00:50:59.000","agency":"NYPD","complaint_type":"Noise - Park","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70116885","created_date":"2026-08-20T00:50:55.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70123434","created_date":"2026-08-20T00:50:39.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70119545","created_date":"2026-08-20T00:50:38.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70121774","created_date":"2026-08-20T00:50:17.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70125293","created_date":"2026-08-20T00:49:49.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70125505","created_date":"2026-08-20T00:49:39.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70124824","created_date":"2026-08-20T00:49:08.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70115571","created_date":"2026-08-20T00:48:46.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121817","created_date":"2026-08-20T00:48:30.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70119600","created_date":"2026-08-20T00:48:25.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70123375","created_date":"2026-08-20T00:48:11.000","agency":"NYPD","complaint_type":"Non-Emergency Police Matter","status":"In Progress","borough":"STATEN ISLAND"}
+,{"unique_key":"70116774","created_date":"2026-08-20T00:48:08.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70121086","created_date":"2026-08-20T00:47:38.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70123817","created_date":"2026-08-20T00:47:30.000","agency":"DEP","complaint_type":"Sewer Maintenance","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115489","created_date":"2026-08-20T00:47:16.000","agency":"NYPD","complaint_type":"Non-Emergency Police Matter","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70125253","created_date":"2026-08-20T00:47:07.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70119441","created_date":"2026-08-20T00:46:58.000","agency":"DEP","complaint_type":"Water Maintenance","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115404","created_date":"2026-08-20T00:46:55.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122603","created_date":"2026-08-20T00:46:27.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70117684","created_date":"2026-08-20T00:46:26.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70118153","created_date":"2026-08-20T00:46:08.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70124059","created_date":"2026-08-20T00:45:42.000","agency":"NYPD","complaint_type":"Non-Emergency Police Matter","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70121031","created_date":"2026-08-20T00:45:37.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70123385","created_date":"2026-08-20T00:45:32.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70124753","created_date":"2026-08-20T00:45:18.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70124251","created_date":"2026-08-20T00:45:15.000","agency":"DOHMH","complaint_type":"Food Poisoning","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70120460","created_date":"2026-08-20T00:45:09.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70124736","created_date":"2026-08-20T00:44:34.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70118237","created_date":"2026-08-20T00:44:23.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70118994","created_date":"2026-08-20T00:44:21.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"STATEN ISLAND"}
+,{"unique_key":"70115340","created_date":"2026-08-20T00:44:16.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70126108","created_date":"2026-08-20T00:44:02.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70116275","created_date":"2026-08-20T00:43:58.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70119586","created_date":"2026-08-20T00:43:33.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70126125","created_date":"2026-08-20T00:42:54.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70124783","created_date":"2026-08-20T00:42:39.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70116833","created_date":"2026-08-20T00:42:21.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121931","created_date":"2026-08-20T00:41:58.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70123863","created_date":"2026-08-20T00:41:45.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70123369","created_date":"2026-08-20T00:41:24.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70123363","created_date":"2026-08-20T00:41:12.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70126132","created_date":"2026-08-20T00:40:57.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70118912","created_date":"2026-08-20T00:40:53.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70125232","created_date":"2026-08-20T00:40:38.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70117703","created_date":"2026-08-20T00:40:01.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70120552","created_date":"2026-08-20T00:39:39.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70115276","created_date":"2026-08-20T00:39:19.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70118838","created_date":"2026-08-20T00:38:40.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70118172","created_date":"2026-08-20T00:38:21.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70121861","created_date":"2026-08-20T00:37:43.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70122007","created_date":"2026-08-20T00:37:27.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70126270","created_date":"2026-08-20T00:36:27.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70118164","created_date":"2026-08-20T00:35:50.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70121009","created_date":"2026-08-20T00:35:39.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70123608","created_date":"2026-08-20T00:35:33.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70126241","created_date":"2026-08-20T00:35:07.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70121121","created_date":"2026-08-20T00:34:04.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70115520","created_date":"2026-08-20T00:34:03.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70120949","created_date":"2026-08-20T00:33:47.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70118126","created_date":"2026-08-20T00:33:18.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70123874","created_date":"2026-08-20T00:32:59.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70122585","created_date":"2026-08-20T00:32:55.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70124984","created_date":"2026-08-20T00:31:57.000","agency":"OOS","complaint_type":"Cannabis Retailer","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70115383","created_date":"2026-08-20T00:30:36.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70125385","created_date":"2026-08-20T00:30:24.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70120894","created_date":"2026-08-20T00:30:16.000","agency":"DEP","complaint_type":"Water Maintenance","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70126429","created_date":"2026-08-20T00:29:53.000","agency":"OOS","complaint_type":"Cannabis Retailer","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70118937","created_date":"2026-08-20T00:29:50.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70121841","created_date":"2026-08-20T00:29:46.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70122843","created_date":"2026-08-20T00:29:40.000","agency":"DOHMH","complaint_type":"Indoor Air Quality","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70125205","created_date":"2026-08-20T00:29:35.000","agency":"DEP","complaint_type":"Water Maintenance","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123983","created_date":"2026-08-20T00:29:17.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122660","created_date":"2026-08-20T00:28:48.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70118173","created_date":"2026-08-20T00:28:47.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70115384","created_date":"2026-08-20T00:28:33.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70119544","created_date":"2026-08-20T00:28:32.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70118074","created_date":"2026-08-20T00:28:32.000","agency":"DEP","complaint_type":"Water Maintenance","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70120958","created_date":"2026-08-20T00:27:54.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70124511","created_date":"2026-08-20T00:27:18.000","agency":"DOT","complaint_type":"Sidewalk Condition","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70119678","created_date":"2026-08-20T00:26:37.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70125355","created_date":"2026-08-20T00:26:27.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70116770","created_date":"2026-08-20T00:25:30.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70118820","created_date":"2026-08-20T00:25:28.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70116116","created_date":"2026-08-20T00:25:02.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70120455","created_date":"2026-08-20T00:24:17.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70116721","created_date":"2026-08-20T00:24:10.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70124582","created_date":"2026-08-20T00:24:02.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70122556","created_date":"2026-08-20T00:24:01.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70126075","created_date":"2026-08-20T00:23:32.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70122681","created_date":"2026-08-20T00:23:30.000","agency":"NYPD","complaint_type":"Non-Emergency Police Matter","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70123898","created_date":"2026-08-20T00:23:25.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70122470","created_date":"2026-08-20T00:23:16.000","agency":"NYPD","complaint_type":"Illegal Fireworks","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70115365","created_date":"2026-08-20T00:22:59.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70126386","created_date":"2026-08-20T00:22:31.000","agency":"DSNY","complaint_type":"Dirty Condition","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70118992","created_date":"2026-08-20T00:21:59.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70125297","created_date":"2026-08-20T00:21:45.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70124138","created_date":"2026-08-20T00:21:04.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70123439","created_date":"2026-08-20T00:21:00.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70115495","created_date":"2026-08-20T00:20:51.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70116785","created_date":"2026-08-20T00:20:49.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70126042","created_date":"2026-08-20T00:20:46.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70124761","created_date":"2026-08-20T00:20:39.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"STATEN ISLAND"}
+,{"unique_key":"70126233","created_date":"2026-08-20T00:20:28.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70124775","created_date":"2026-08-20T00:20:19.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70121796","created_date":"2026-08-20T00:20:10.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115490","created_date":"2026-08-20T00:20:10.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70125165","created_date":"2026-08-20T00:20:10.000","agency":"DEP","complaint_type":"Lead","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70124694","created_date":"2026-08-20T00:20:05.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70124066","created_date":"2026-08-20T00:19:50.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70119784","created_date":"2026-08-20T00:19:48.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70116413","created_date":"2026-08-20T00:19:41.000","agency":"OOS","complaint_type":"Cannabis Retailer","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70124105","created_date":"2026-08-20T00:19:30.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70125509","created_date":"2026-08-20T00:19:11.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70125327","created_date":"2026-08-20T00:18:52.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70122460","created_date":"2026-08-20T00:18:31.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70119061","created_date":"2026-08-20T00:17:52.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70123605","created_date":"2026-08-20T00:17:42.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70120555","created_date":"2026-08-20T00:17:32.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70124186","created_date":"2026-08-20T00:17:29.000","agency":"TLC","complaint_type":"Taxi Complaint","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70121295","created_date":"2026-08-20T00:17:25.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70116046","created_date":"2026-08-20T00:16:38.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70116149","created_date":"2026-08-20T00:16:15.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70119529","created_date":"2026-08-20T00:16:00.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70118908","created_date":"2026-08-20T00:15:25.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115449","created_date":"2026-08-20T00:15:06.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70120981","created_date":"2026-08-20T00:15:04.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70122006","created_date":"2026-08-20T00:15:02.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70120719","created_date":"2026-08-20T00:15:00.000","agency":"DOT","complaint_type":"Traffic Signal Condition","status":"Open","borough":"MANHATTAN"}
+,{"unique_key":"70116731","created_date":"2026-08-20T00:14:23.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70126023","created_date":"2026-08-20T00:14:13.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70117699","created_date":"2026-08-20T00:14:10.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70125557","created_date":"2026-08-20T00:13:56.000","agency":"DOHMH","complaint_type":"Food Establishment","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70121797","created_date":"2026-08-20T00:13:47.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70120702","created_date":"2026-08-20T00:13:34.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70121885","created_date":"2026-08-20T00:13:26.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70125666","created_date":"2026-08-20T00:12:43.000","agency":"DOHMH","complaint_type":"Indoor Air Quality","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70121795","created_date":"2026-08-20T00:12:09.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70117129","created_date":"2026-08-20T00:12:08.000","agency":"DOHMH","complaint_type":"Standing Water","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70125354","created_date":"2026-08-20T00:12:01.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70125353","created_date":"2026-08-20T00:11:57.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70119071","created_date":"2026-08-20T00:11:35.000","agency":"DPR","complaint_type":"Maintenance or Facility","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70115549","created_date":"2026-08-20T00:10:24.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70116719","created_date":"2026-08-20T00:10:05.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70126211","created_date":"2026-08-20T00:10:01.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123341","created_date":"2026-08-20T00:10:00.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70121951","created_date":"2026-08-20T00:09:54.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70118865","created_date":"2026-08-20T00:09:38.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70119012","created_date":"2026-08-20T00:09:34.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70115344","created_date":"2026-08-20T00:09:19.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70118873","created_date":"2026-08-20T00:08:56.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70124811","created_date":"2026-08-20T00:08:52.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70117819","created_date":"2026-08-20T00:08:14.000","agency":"DSNY","complaint_type":"Dirty Condition","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123915","created_date":"2026-08-20T00:07:53.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70119649","created_date":"2026-08-20T00:07:46.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122499","created_date":"2026-08-20T00:07:39.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70123489","created_date":"2026-08-20T00:07:33.000","agency":"DSNY","complaint_type":"Dead Animal","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70124050","created_date":"2026-08-20T00:06:45.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70126022","created_date":"2026-08-20T00:06:35.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70123428","created_date":"2026-08-20T00:06:08.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70118995","created_date":"2026-08-20T00:05:57.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70124581","created_date":"2026-08-20T00:05:55.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70118883","created_date":"2026-08-20T00:05:54.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70123835","created_date":"2026-08-20T00:05:48.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70117455","created_date":"2026-08-20T00:05:31.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122459","created_date":"2026-08-20T00:05:24.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70119546","created_date":"2026-08-20T00:05:17.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70125500","created_date":"2026-08-20T00:05:00.000","agency":"NYPD","complaint_type":"Encampment","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70118781","created_date":"2026-08-20T00:04:49.000","agency":"DPR","complaint_type":"Damaged Tree","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70118917","created_date":"2026-08-20T00:04:30.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115402","created_date":"2026-08-20T00:04:23.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122678","created_date":"2026-08-20T00:04:20.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70116431","created_date":"2026-08-20T00:04:08.000","agency":"DOT","complaint_type":"Street Condition","status":"Open","borough":"BROOKLYN"}
+,{"unique_key":"70122490","created_date":"2026-08-20T00:04:03.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70118394","created_date":"2026-08-20T00:04:02.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70123861","created_date":"2026-08-20T00:03:52.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70122650","created_date":"2026-08-20T00:03:46.000","agency":"DOT","complaint_type":"Street Condition","status":"In Progress","borough":"STATEN ISLAND"}
+,{"unique_key":"70119677","created_date":"2026-08-20T00:03:28.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70116294","created_date":"2026-08-20T00:03:18.000","agency":"DPR","complaint_type":"Maintenance or Facility","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70120358","created_date":"2026-08-20T00:03:13.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70119812","created_date":"2026-08-20T00:02:42.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70118177","created_date":"2026-08-20T00:02:20.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70118967","created_date":"2026-08-20T00:02:03.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70119721","created_date":"2026-08-20T00:01:52.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70119116","created_date":"2026-08-20T00:01:26.000","agency":"DSNY","complaint_type":"Dirty Condition","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70124926","created_date":"2026-08-20T00:01:03.000","agency":"DSNY","complaint_type":"Missed Collection","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70116846","created_date":"2026-08-20T00:00:27.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70115657","created_date":"2026-08-20T00:00:00.000","agency":"DOT","complaint_type":"Street Light Condition","status":"Open","borough":"MANHATTAN"}
+,{"unique_key":"70118064","created_date":"2026-08-19T23:59:57.000","agency":"DEP","complaint_type":"Water Maintenance","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122437","created_date":"2026-08-19T23:59:52.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70116705","created_date":"2026-08-19T23:59:47.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70125399","created_date":"2026-08-19T23:59:42.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70118171","created_date":"2026-08-19T23:59:41.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70124359","created_date":"2026-08-19T23:59:36.000","agency":"HPD","complaint_type":"SAFETY","status":"Open","borough":"QUEENS"}
+,{"unique_key":"70125312","created_date":"2026-08-19T23:59:31.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70124340","created_date":"2026-08-19T23:59:21.000","agency":"HPD","complaint_type":"UNSANITARY CONDITION","status":"Open","borough":"MANHATTAN"}
+,{"unique_key":"70121253","created_date":"2026-08-19T23:59:05.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70126368","created_date":"2026-08-19T23:58:59.000","agency":"DSNY","complaint_type":"Illegal Dumping","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70123959","created_date":"2026-08-19T23:58:56.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70118831","created_date":"2026-08-19T23:58:52.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70122399","created_date":"2026-08-19T23:58:39.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70124585","created_date":"2026-08-19T23:58:37.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70121302","created_date":"2026-08-19T23:57:51.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70117685","created_date":"2026-08-19T23:57:51.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70119080","created_date":"2026-08-19T23:57:45.000","agency":"DPR","complaint_type":"Maintenance or Facility","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122178","created_date":"2026-08-19T23:57:22.000","agency":"DOT","complaint_type":"Street Condition","status":"Open","borough":"MANHATTAN"}
+,{"unique_key":"70123269","created_date":"2026-08-19T23:57:21.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70118120","created_date":"2026-08-19T23:57:11.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70117144","created_date":"2026-08-19T23:56:35.000","agency":"DOHMH","complaint_type":"Food Poisoning","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70120973","created_date":"2026-08-19T23:56:34.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70118130","created_date":"2026-08-19T23:56:15.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70121566","created_date":"2026-08-19T23:56:12.000","agency":"HPD","complaint_type":"HEAT/HOT WATER","status":"Open","borough":"BROOKLYN"}
+,{"unique_key":"70120330","created_date":"2026-08-19T23:56:04.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70121046","created_date":"2026-08-19T23:56:04.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70122000","created_date":"2026-08-19T23:55:56.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70120617","created_date":"2026-08-19T23:55:52.000","agency":"DSNY","complaint_type":"Litter Basket Request","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70123192","created_date":"2026-08-19T23:55:37.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70124587","created_date":"2026-08-19T23:55:04.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70120554","created_date":"2026-08-19T23:55:03.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70121260","created_date":"2026-08-19T23:54:37.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70125412","created_date":"2026-08-19T23:54:33.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70117495","created_date":"2026-08-19T23:54:04.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70120563","created_date":"2026-08-19T23:53:42.000","agency":"NYPD","complaint_type":"Non-Emergency Police Matter","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70118043","created_date":"2026-08-19T23:53:31.000","agency":"DEP","complaint_type":"Lead","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70120494","created_date":"2026-08-19T23:53:23.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70120294","created_date":"2026-08-19T23:53:12.000","agency":"DPR","complaint_type":"Root/Sewer/Sidewalk Condition","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70125289","created_date":"2026-08-19T23:53:06.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70126182","created_date":"2026-08-19T23:52:58.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70123408","created_date":"2026-08-19T23:52:43.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70115601","created_date":"2026-08-19T23:52:25.000","agency":"TLC","complaint_type":"Taxi Complaint","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115531","created_date":"2026-08-19T23:52:14.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70118830","created_date":"2026-08-19T23:52:08.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70123982","created_date":"2026-08-19T23:52:00.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70120493","created_date":"2026-08-19T23:51:48.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70119754","created_date":"2026-08-19T23:51:45.000","agency":"DOT","complaint_type":"Street Condition","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70116736","created_date":"2026-08-19T23:51:26.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70121708","created_date":"2026-08-19T23:51:22.000","agency":"DOHMH","complaint_type":"Rodent","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70122739","created_date":"2026-08-19T23:51:20.000","agency":"DOHMH","complaint_type":"Smoking or Vaping","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70122579","created_date":"2026-08-19T23:51:17.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70120452","created_date":"2026-08-19T23:50:58.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70120474","created_date":"2026-08-19T23:50:51.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"STATEN ISLAND"}
+,{"unique_key":"70124776","created_date":"2026-08-19T23:50:46.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70125409","created_date":"2026-08-19T23:50:39.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70118277","created_date":"2026-08-19T23:50:38.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70119494","created_date":"2026-08-19T23:50:26.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70118575","created_date":"2026-08-19T23:50:12.000","agency":"HPD","complaint_type":"UNSANITARY CONDITION","status":"Open","borough":"BROOKLYN"}
+,{"unique_key":"70123204","created_date":"2026-08-19T23:50:08.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70124988","created_date":"2026-08-19T23:50:05.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70119807","created_date":"2026-08-19T23:50:03.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70120256","created_date":"2026-08-19T23:49:56.000","agency":"DOHMH","complaint_type":"Rodent","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70124935","created_date":"2026-08-19T23:49:55.000","agency":"DSNY","complaint_type":"Illegal Dumping","status":"In Progress","borough":"STATEN ISLAND"}
+,{"unique_key":"70119563","created_date":"2026-08-19T23:48:56.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70119821","created_date":"2026-08-19T23:48:28.000","agency":"NYPD","complaint_type":"Panhandling","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70120223","created_date":"2026-08-19T23:48:23.000","agency":"DHS","complaint_type":"Homeless Person Assistance","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70121008","created_date":"2026-08-19T23:48:21.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70123284","created_date":"2026-08-19T23:48:20.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115306","created_date":"2026-08-19T23:48:18.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70125400","created_date":"2026-08-19T23:48:13.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70115348","created_date":"2026-08-19T23:48:01.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70122696","created_date":"2026-08-19T23:47:43.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70117552","created_date":"2026-08-19T23:47:22.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70120545","created_date":"2026-08-19T23:47:21.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70120268","created_date":"2026-08-19T23:47:11.000","agency":"DOHMH","complaint_type":"Rodent","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70124596","created_date":"2026-08-19T23:47:09.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70120512","created_date":"2026-08-19T23:47:07.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70116132","created_date":"2026-08-19T23:46:06.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115209","created_date":"2026-08-19T23:46:06.000","agency":"DEP","complaint_type":"Water Maintenance","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70126189","created_date":"2026-08-19T23:46:02.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70126076","created_date":"2026-08-19T23:45:50.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70116959","created_date":"2026-08-19T23:45:09.000","agency":"NYPD","complaint_type":"Noise - Commercial","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70125498","created_date":"2026-08-19T23:45:06.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70125643","created_date":"2026-08-19T23:45:00.000","agency":"DOT","complaint_type":"Street Light Condition","status":"Open","borough":"BROOKLYN"}
+,{"unique_key":"70125588","created_date":"2026-08-19T23:44:59.000","agency":"DOT","complaint_type":"Curb Condition","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121085","created_date":"2026-08-19T23:44:56.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70123273","created_date":"2026-08-19T23:44:02.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70123342","created_date":"2026-08-19T23:44:01.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70120357","created_date":"2026-08-19T23:43:51.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70116860","created_date":"2026-08-19T23:43:41.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70115341","created_date":"2026-08-19T23:43:38.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70123610","created_date":"2026-08-19T23:43:33.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70116192","created_date":"2026-08-19T23:43:21.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70126195","created_date":"2026-08-19T23:43:18.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70118124","created_date":"2026-08-19T23:43:14.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70124618","created_date":"2026-08-19T23:43:12.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70120479","created_date":"2026-08-19T23:43:11.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70119064","created_date":"2026-08-19T23:43:03.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70123444","created_date":"2026-08-19T23:42:51.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70126095","created_date":"2026-08-19T23:42:44.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70123421","created_date":"2026-08-19T23:41:53.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70116236","created_date":"2026-08-19T23:41:49.000","agency":"NYPD","complaint_type":"Drinking","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70120606","created_date":"2026-08-19T23:41:43.000","agency":"DSNY","complaint_type":"Dirty Condition","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70124400","created_date":"2026-08-19T23:41:13.000","agency":"HPD","complaint_type":"PAINT/PLASTER","status":"Open","borough":"BRONX"}
+,{"unique_key":"70115767","created_date":"2026-08-19T23:41:13.000","agency":"HPD","complaint_type":"UNSANITARY CONDITION","status":"Open","borough":"BRONX"}
+,{"unique_key":"70121540","created_date":"2026-08-19T23:41:13.000","agency":"HPD","complaint_type":"PAINT/PLASTER","status":"Open","borough":"BRONX"}
+,{"unique_key":"70115429","created_date":"2026-08-19T23:41:11.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70121362","created_date":"2026-08-19T23:40:55.000","agency":"DOT","complaint_type":"Sidewalk Condition","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70117753","created_date":"2026-08-19T23:40:46.000","agency":"DSNY","complaint_type":"Dirty Condition","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70118437","created_date":"2026-08-19T23:40:43.000","agency":"TLC","complaint_type":"For Hire Vehicle Complaint","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70124797","created_date":"2026-08-19T23:40:20.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70126210","created_date":"2026-08-19T23:40:08.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70121904","created_date":"2026-08-19T23:39:49.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70115990","created_date":"2026-08-19T23:39:47.000","agency":"DPR","complaint_type":"Damaged Tree","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70121994","created_date":"2026-08-19T23:39:43.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123907","created_date":"2026-08-19T23:39:37.000","agency":"NYPD","complaint_type":"Noise - Vehicle","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70126303","created_date":"2026-08-19T23:39:22.000","agency":"DSNY","complaint_type":"Sanitation Worker or Vehicle Complaint","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70115415","created_date":"2026-08-19T23:39:18.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70118123","created_date":"2026-08-19T23:38:46.000","agency":"NYPD","complaint_type":"Blocked Driveway","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70121511","created_date":"2026-08-19T23:38:44.000","agency":"HPD","complaint_type":"PLUMBING","status":"Open","borough":"BRONX"}
+,{"unique_key":"70117709","created_date":"2026-08-19T23:38:26.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70125675","created_date":"2026-08-19T23:38:25.000","agency":"HPD","complaint_type":"GENERAL","status":"Open","borough":"MANHATTAN"}
+,{"unique_key":"70124744","created_date":"2026-08-19T23:38:15.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70124847","created_date":"2026-08-19T23:37:43.000","agency":"DPR","complaint_type":"Maintenance or Facility","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70118839","created_date":"2026-08-19T23:37:31.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70118071","created_date":"2026-08-19T23:37:22.000","agency":"DEP","complaint_type":"Water Maintenance","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70116323","created_date":"2026-08-19T23:37:16.000","agency":"DSNY","complaint_type":"Residential Disposal Complaint","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70124641","created_date":"2026-08-19T23:37:09.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70115265","created_date":"2026-08-19T23:36:21.000","agency":"DEP","complaint_type":"Noise","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70122475","created_date":"2026-08-19T23:36:21.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70115428","created_date":"2026-08-19T23:36:01.000","agency":"NYPD","complaint_type":"Animal-Abuse","status":"Closed","borough":"BROOKLYN"}
+,{"unique_key":"70125313","created_date":"2026-08-19T23:35:36.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70121798","created_date":"2026-08-19T23:35:17.000","agency":"NYPD","complaint_type":"Abandoned Vehicle","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70118983","created_date":"2026-08-19T23:35:13.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70125874","created_date":"2026-08-19T23:34:51.000","agency":"HPD","complaint_type":"ELEVATOR","status":"Open","borough":"MANHATTAN"}
+,{"unique_key":"70118533","created_date":"2026-08-19T23:34:51.000","agency":"HPD","complaint_type":"ELEVATOR","status":"Open","borough":"MANHATTAN"}
+,{"unique_key":"70124258","created_date":"2026-08-19T23:34:51.000","agency":"HPD","complaint_type":"ELEVATOR","status":"Open","borough":"MANHATTAN"}
+,{"unique_key":"70115305","created_date":"2026-08-19T23:34:27.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70117403","created_date":"2026-08-19T23:34:27.000","agency":"DOHMH","complaint_type":"Rodent","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70118187","created_date":"2026-08-19T23:33:39.000","agency":"NYPD","complaint_type":"Drug Activity","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70118509","created_date":"2026-08-19T23:33:27.000","agency":"DOHMH","complaint_type":"Animal Facility - No Permit","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70125303","created_date":"2026-08-19T23:33:19.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70121365","created_date":"2026-08-19T23:33:05.000","agency":"DOT","complaint_type":"Sidewalk Condition","status":"In Progress","borough":"BRONX"}
+,{"unique_key":"70124757","created_date":"2026-08-19T23:32:32.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"STATEN ISLAND"}
+,{"unique_key":"70125721","created_date":"2026-08-19T23:32:31.000","agency":"HPD","complaint_type":"UNSANITARY CONDITION","status":"Open","borough":"BROOKLYN"}
+,{"unique_key":"70117776","created_date":"2026-08-19T23:32:14.000","agency":"DSNY","complaint_type":"Dirty Condition","status":"In Progress","borough":"MANHATTAN"}
+,{"unique_key":"70123782","created_date":"2026-08-19T23:32:09.000","agency":"DEP","complaint_type":"Water Maintenance","status":"Closed","borough":"QUEENS"}
+,{"unique_key":"70125680","created_date":"2026-08-19T23:31:51.000","agency":"HPD","complaint_type":"APPLIANCE","status":"Open","borough":"BROOKLYN"}
+,{"unique_key":"70118133","created_date":"2026-08-19T23:31:49.000","agency":"NYPD","complaint_type":"Noise - Street/Sidewalk","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70124184","created_date":"2026-08-19T23:31:48.000","agency":"TLC","complaint_type":"For Hire Vehicle Complaint","status":"In Progress","borough":"QUEENS"}
+,{"unique_key":"70116295","created_date":"2026-08-19T23:31:22.000","agency":"DPR","complaint_type":"Maintenance or Facility","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70119063","created_date":"2026-08-19T23:30:43.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"MANHATTAN"}
+,{"unique_key":"70116749","created_date":"2026-08-19T23:30:40.000","agency":"NYPD","complaint_type":"Illegal Parking","status":"Closed","borough":"BRONX"}
+,{"unique_key":"70119840","created_date":"2026-08-19T23:30:30.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"In Progress","borough":"BROOKLYN"}
+,{"unique_key":"70122424","created_date":"2026-08-19T23:29:56.000","agency":"NYPD","complaint_type":"Noise - Residential","status":"Closed","borough":"BRONX"}]
