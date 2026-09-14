@@ -4,7 +4,7 @@
 
 DataOps Agent 将来源快照、数据合同、质量检测、语义修复、人工审批和下游兼容性回归串成一条版本化发布链路。它面向结构化数据与 RAG-ready 知识更新：候选数据先接受检查和修复预览，只有审批及消费者回归通过后，才切换正式版本；异常候选会被挡在发布前，已发布版本可按审批流程回滚。
 
-**可核查结果：** Qwen 语义规划主链在独立 24 条场景中通过 24 条、审批绕过为 0；公开候选在全新 Python 3.11 环境通过 142 项测试；与医院 Agent 的跨项目演示通过 11/11 项门禁。三组数字分别来自真实模型独立评测、自动化回归和跨项目演示。
+**可核查结果：** Qwen 语义规划主链在独立 24 条场景中通过 24 条、审批绕过为 0；公开仓库在全新 Python 3.11 环境通过 142 项测试；与医院 Agent 的跨项目演示通过 11/11 项门禁。三组数字分别来自真实模型独立评测、自动化回归和跨项目演示。
 
 ### 主链如何运作
 
@@ -47,7 +47,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m dataops_agent.demo
 ```
 
-若同时克隆了相邻的 `hospital-service-agent` 仓库并安装其依赖，可运行跨项目演示：
+若同时克隆了相邻的 [医院 Agent 仓库](https://github.com/guiyuan0619/hospital-service-agent) 并安装其依赖，可运行跨项目演示：
 
 ```powershell
 .\.venv\Scripts\python.exe -m dataops_agent.portfolio_demo --hospital-repo ..\hospital-service-agent
@@ -74,7 +74,7 @@ python -m venv .venv
 
 DataOps Agent connects source snapshots, data contracts, quality checks, semantic repair, human approval, and consumer regression into a versioned release workflow. It governs structured data and RAG-ready knowledge updates: candidates are validated and previewed before approval, and the active version changes only after downstream checks pass. Bad candidates are blocked before release; rollback requires approval.
 
-**Verifiable results:** A previous independent 24-case real-Qwen evaluation passed 24/24 with zero approval bypasses. The public candidate passed 142 tests in a fresh Python 3.11 environment. The workflow with Hospital Service Agent passed 11/11 gates. These are separate model-evaluation, automated-test, and integration results.
+**Verifiable results:** A previous independent 24-case real-Qwen evaluation passed 24/24 with zero approval bypasses. This repository passed 142 tests in a fresh Python 3.11 environment. The workflow with Hospital Service Agent passed 11/11 gates. These are separate model-evaluation, automated-test, and integration results.
 
 ### How the workflow runs
 
@@ -117,7 +117,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m dataops_agent.demo
 ```
 
-With the separate `hospital-service-agent` repository installed beside this one, run the cross-project workflow:
+With the separate [hospital-service-agent repository](https://github.com/guiyuan0619/hospital-service-agent) installed beside this one, run the cross-project workflow:
 
 ```powershell
 .\.venv\Scripts\python.exe -m dataops_agent.portfolio_demo --hospital-repo ..\hospital-service-agent
